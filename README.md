@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daphnebk
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning biomedical engineering
+- 🌱 I have a biomedical engineering degree
 
 
 <!---
